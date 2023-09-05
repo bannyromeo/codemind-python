@@ -1,2 +1,2 @@
-string=input()
-print (max(string))
+s=input()
+print(max(s))
